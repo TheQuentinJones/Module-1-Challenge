@@ -15,13 +15,15 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
+    font-style: normal;
+    
 }
 
 header section {
@@ -33,11 +35,11 @@ header section {
     
 }
 
-header section ul {
+ul {
     list-style-type: none;
 }
 
-header section ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -58,16 +60,6 @@ p {
     background-size: cover;
     background-position: center;
     margin-top: 0px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .content {
@@ -164,14 +156,20 @@ p {
 
 #search-engine-optimization img {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
 
 #online-reputation-management img {
     max-height: 200px;
+    float: right;
+    margin-left: 25px;
 }
 
 #social-media-marketing img {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
 
 #search-engine-optimization h2 {
