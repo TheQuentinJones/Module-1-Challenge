@@ -5,6 +5,8 @@
    This project was created to update code for a previously made website. I updated the code by replacing non-specific elements with semantic elements. I also trimmed
    other parts of the code such as some "classes", to make the HTML and CSS more concise and easier to understand.
    
+   Here is a link to my site: https://thequentinjones.github.io/Module-1-Challenge/
+   
 ## Licenses
 
    MIT License
